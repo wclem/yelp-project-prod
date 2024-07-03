@@ -1,9 +1,3 @@
 streamlit
-pandas
-numpy
 scikit-learn
 joblib
-sqlite3
-nltk
-re
-time
